@@ -1,0 +1,2 @@
+# ClaseVirtual
+Clase virtual
